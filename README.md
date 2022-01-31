@@ -1,1 +1,2 @@
-# odin-landingpage
+# Landing Page
+This is the landing page project from the Odin Project. It is the creation of a landing page from scratch with reference to a pre-determined design, utilising flexbox to arrange the elements of the page. 
